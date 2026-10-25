@@ -1,10 +1,10 @@
-# 🏡 StaySphere - Student & Young Professional PG Discovery Platform
+#  StaySphere - Student & Young Professional PG Discovery Platform
 
 > A full-stack web application designed for students and young professionals across India to discover verified PGs, hostels, and shared flats with immersive 360-degree virtual room tours, individual bed reservation, and transparent rent calculations.
 
 ---
 
-## 🌟 Key Features
+##  Key Features
 
 1. **Modern Responsive UI**: Styled with Tailwind CSS, Lucide icons, responsive navigation, and intuitive student hub filtering.
 2. **Interactive 360° Virtual Tours**: Powered by Pannellum for high-resolution equirectangular room navigation, study desk inspection, and spatial awareness before visiting.
@@ -21,7 +21,7 @@
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 - **Frontend**: React 18, Vite, Tailwind CSS, React Router DOM v6, Axios, Lucide React, Pannellum
 - **Backend**: Node.js, Express.js, JWT authentication, bcryptjs password hashing, REST APIs
@@ -30,7 +30,7 @@
 
 ---
 
-## 🚀 Quick Start (Beginner Friendly)
+##  Quick Start (Beginner Friendly)
 
 ### Prerequisites
 - **Node.js** (v18 or higher recommended; currently tested on v26)
@@ -51,7 +51,7 @@ The application will be live at:
 
 ---
 
-## 🔑 Pre-Seeded Test Credentials
+##  Pre-Seeded Test Credentials
 
 You can sign in or register with any account, or test using the pre-seeded accounts:
 
@@ -63,7 +63,7 @@ You can sign in or register with any account, or test using the pre-seeded accou
 
 ---
 
-## 🧪 Running Automated Tests
+##  Running Automated Tests
 
 To run the automated integration test suite:
 
