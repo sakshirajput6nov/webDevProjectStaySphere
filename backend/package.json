@@ -1,0 +1,24 @@
+{
+  "name": "staysphere-backend",
+  "version": "1.0.0",
+  "description": "StaySphere Backend API with Express, Mongoose, JWT and bcryptjs",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "seed": "node src/seed.js",
+    "test": "NODE_ENV=test node src/tests/runTests.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.7.0"
+  },
+  "devDependencies": {
+    "mongodb-memory-server": "^10.0.0"
+  }
+}
